@@ -1,8 +1,16 @@
 # ai-personal-assistant
-Un assistente AI personale offline con Whisper, VAD e TTS
+Un assistente AI personale offline con Whisper, Silero VAD e TTS.
+
 Permette trascrizione vocale, attivazione microfono intelligente e sintesi vocale in italiano.
-Progetto open-source per mantenere la privacy, senza dipendere da servizi cloud.
+Progetto open-source pensato per mantenere la privacy, senza dipendere da servizi cloud.
+
+📖 Leggi l'articolo completo con guida passo-passo su Codex Sprawl:
+👉 How to: addestrare una piccola AI personale che ti conosca meglio di te (e che non ti giudichi troppo)
+
 ⚠️ Nota sullo stato del progetto
-Questo progetto è in fase sperimentale e non è stato ancora completamente testato. Potresti incontrare bug o problemi di funzionamento.
-Usalo con cautela e a tuo rischio e pericolo. Se vuoi contribuire, segnalare errori o proporre miglioramenti, sei il benvenuto!
-L’obiettivo è creare una base su cui lavorare insieme per migliorare l’assistente AI personale offline.
+Questo progetto è in fase sperimentale e non è stato ancora completamente testato. Potresti incontrare bug o problemi di funzionamento. Usalo con cautela e a tuo rischio e pericolo.
+
+👋 Contribuisci!
+Se vuoi segnalare errori, proporre miglioramenti o collaborare allo sviluppo, sei il benvenuto!
+L’obiettivo è creare una base solida per costruire insieme un assistente AI personale offline, etico e controllato dall’utente.
+
