@@ -7,8 +7,8 @@ Progetto open-source pensato per mantenere la privacy, senza dipendere da serviz
 📖 Leggi l'articolo completo con guida passo-passo su Codexsprawl:
 👉 How to: addestrare una piccola AI personale che ti conosca meglio di te (e che non ti giudichi troppo) al link https://www.codexsprawl.com/2025/07/29/how-to-addestrare-una-piccola-ai-personale-che-ti-conosca-meglio-di-te-e-che-non-ti-giudichi-troppo/
 
-⚠️ Nota sullo stato del progetto
-Questo progetto è in fase sperimentale e non è stato ancora completamente testato. Potresti incontrare bug o problemi di funzionamento. Usalo con cautela e a tuo rischio e pericolo.
+⚠️ Stato del progetto
+Questo progetto funziona correttamente in ambiente locale, ma è ancora in fase iniziale di sviluppo. Potrebbero esserci bug o funzionalità migliorabili. Usalo con consapevolezza!
 
 👋 Contribuisci!
 Se vuoi segnalare errori, proporre miglioramenti o collaborare allo sviluppo, sei il benvenuto!
