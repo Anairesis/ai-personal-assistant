@@ -4,7 +4,7 @@ Un assistente AI personale offline con Whisper, Silero VAD e TTS.
 Permette trascrizione vocale, attivazione microfono intelligente e sintesi vocale in italiano.
 Progetto open-source pensato per mantenere la privacy, senza dipendere da servizi cloud.
 
-📖 Leggi l'articolo completo con guida passo-passo su Codex Sprawl:
+📖 Leggi l'articolo completo con guida passo-passo su www.codexsprawl.com:
 👉 How to: addestrare una piccola AI personale che ti conosca meglio di te (e che non ti giudichi troppo)
 
 ⚠️ Nota sullo stato del progetto
